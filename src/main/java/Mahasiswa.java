@@ -1,3 +1,4 @@
+//GUIDED 3
 import java.io.*;
 public class Mahasiswa {
     private String Nama[] = new String[3];
